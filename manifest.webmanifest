@@ -1,13 +1,13 @@
 {
   "name": "Marcos Ariel — Advogado — Privacidade e Proteção de Dados",
   "short_name": "MarcosAriel",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#06b6d4",
   "icons": [
     {
-      "src": "/assets/img/logo.svg",
+      "src": "assets/img/logo.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     }
